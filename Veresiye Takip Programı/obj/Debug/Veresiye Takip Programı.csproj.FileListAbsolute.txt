@@ -1,0 +1,211 @@
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.pdb
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Properties.Resources.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.pdb
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe.licenses
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.AnaForm.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe.config
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Istatistik.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.MesajKutusu.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YeniCariEkle.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.VeresiyeEkle.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YazdirmaGoruntusu.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.EpostaGonder.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Ayarlar.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.KasaHareketleri.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.BankaHesaplari.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.GidenEposta.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Giris.resources
+C:\Users\Emre\Desktop\Dernek Yönetim Programı\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.ProgramHakkinda.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe.config
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.pdb
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.pdb
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csprojResolveAssemblyReference.cache
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.AnaForm.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Ayarlar.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.BankaHesaplari.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.EpostaGonder.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.GidenEposta.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Giris.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Istatistik.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.KasaHareketleri.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.MesajKutusu.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.ProgramHakkinda.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Properties.Resources.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.VeresiyeEkle.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YazdirmaGoruntusu.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YeniCariEkle.resources
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csproj.GenerateResource.Cache
+D:\Programlama\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe.licenses
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe.config
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.pdb
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.pdb
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.AnaForm.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Ayarlar.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.BankaHesaplari.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.EpostaGonder.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.GidenEposta.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Giris.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Istatistik.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.KasaHareketleri.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.MesajKutusu.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.ProgramHakkinda.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Properties.Resources.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.VeresiyeEkle.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YazdirmaGoruntusu.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YeniCariEkle.resources
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Emre\Desktop\kodbankasi.gen.tr\Otomasyonlar\Veresiye Takip Programı (veritabanı değişecek)\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe.licenses
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe.config
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.pdb
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.pdb
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.BonusSkins.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.UI.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.UI.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csprojResolveAssemblyReference.cache
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.AnaForm.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Ayarlar.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.BankaHesaplari.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.EpostaGonder.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.GidenEposta.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Giris.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Istatistik.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.KasaHareketleri.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.MesajKutusu.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.ProgramHakkinda.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.Properties.Resources.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.VeresiyeEkle.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YazdirmaGoruntusu.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye_Takip_Programı.YeniCariEkle.resources
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.csproj.GenerateResource.Cache
+C:\Users\Lütfi Can Say\Desktop\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe.licenses
+E:\Dosyalarım\Programlar\Veresiye Takip Programı\Veresiye Takip Programı\bin\Debug\Veresiye Takip Programı.exe.config
+E:\Dosyalarım\Programlar\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.exe
+E:\Dosyalarım\Programlar\Veresiye Takip Programı\Veresiye Takip Programı\obj\Debug\Veresiye Takip Programı.pdb
